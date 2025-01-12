@@ -9,3 +9,13 @@ This project is a Python Q&A chatbot developed using Retrieval-Augmented Generat
 💻 Streamlit Frontend: Provides a simple and interactive UI for users.
 
 ⚡ Efficient Backend: Processes user queries and retrieves relevant answers effectively.
+
+## Project Structure
+
+📂 backend/: Contains the backend logic for query processing and retrieval.
+
+💻 frontend/: Includes the Streamlit app code for the user interface.
+
+📊 data/: Stores the dataset used by the chatbot.
+
+📄 requirements.txt: Lists all necessary Python dependencies.
