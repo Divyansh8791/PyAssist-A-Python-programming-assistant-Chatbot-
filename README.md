@@ -1,2 +1,3 @@
-# PyAssist-A-Python-programming-assistant-Chatbot-
-A Python Q&amp;A chatbot built with Retrieval-Augmented Generation (RAG) and LangChain. It answers Python programming questions accurately and contextually. The backend manages query processing, while the Streamlit-based frontend ensures an interactive and user-friendly experience.
+ # PyAssist-A-Python-programming-assistant-Chatbot-
+
+This project is a Python Q&A chatbot developed using Retrieval-Augmented Generation (RAG) and LangChain. It is designed to assist users with Python programming questions by providing accurate and contextually relevant answers. The backend processes and retrieves information, while the frontend, built with Streamlit, offers a clean and interactive interface. This chatbot is a valuable tool for learning Python or troubleshooting programming issues.
